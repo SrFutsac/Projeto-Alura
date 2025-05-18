@@ -1,0 +1,6 @@
+chatbot_study_planner/
+│
+├── main.py
+├── planner.py
+├── prompt_templates.py
+└── requirements.txt
