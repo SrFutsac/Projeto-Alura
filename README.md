@@ -1,5 +1,5 @@
 
-# Projeto
+# Projeto Alura
 ![ChatGPT Image 17 de mai  de 2025, 21_49_10](https://github.com/user-attachments/assets/bb2a5ea5-a0dd-4385-9d5a-a3b0edf0b029)
 -Alura
 🤖 ChatBot Planejador de Estudos em Python - Arrays
