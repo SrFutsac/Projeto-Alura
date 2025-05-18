@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/dbc4989e-d58a-4218-ba65-42f77515a888)
-# Projeto-Alura
+
+# Projeto
+![ChatGPT Image 17 de mai  de 2025, 21_49_10](https://github.com/user-attachments/assets/bb2a5ea5-a0dd-4385-9d5a-a3b0edf0b029)
+-Alura
 🤖 ChatBot Planejador de Estudos em Python - Arrays
 Este projeto é um chatbot interativo desenvolvido em Python que utiliza a API do Google Gemini (models/gemini-2.0-flash) para ajudar iniciantes a aprender sobre arrays (listas em Python).
 
