@@ -5,7 +5,7 @@ GOOGLE_API_KEY = "GOOGLE_API_KEYf"  # substitua pela sua chave real
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Inicializa o modelo
-model = genai.GenerativeModel(model_name="models/gemini-2.0-flash")
+model = model_name="models/gemini-2.0-flash"
 
 def menu():
     print("\n--- ChatBot Estudo Python: Arrays ---")
